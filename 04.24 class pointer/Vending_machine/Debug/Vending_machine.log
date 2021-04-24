@@ -1,0 +1,6 @@
+﻿  CharacterInfo.cpp
+  main.cpp
+C:\Users\PL_4A_001\Desktop\Kangsuwoo\04.24 class pointer\Vending_machine\main.cpp(65,17): warning C4552: '-': 식의 결과가 사용되지 않습니다.
+C:\Users\PL_4A_001\Desktop\Kangsuwoo\04.24 class pointer\Vending_machine\main.cpp(78,17): warning C4552: '-': 식의 결과가 사용되지 않습니다.
+  코드를 생성하고 있습니다...
+  Vending_machine.vcxproj -> C:\Users\PL_4A_001\Desktop\Kangsuwoo\04.24 class pointer\Debug\Vending_machine.exe
